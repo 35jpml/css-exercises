@@ -1,6 +1,6 @@
 /* Add CSS Styling */
 .para {
-    background-color: pink;
+    background-color: #FF7777;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
@@ -9,12 +9,12 @@
 }
 
 #div-two {
-    color:blue;
+    color:#0000FF;
     font-size:36px;
 }
 
 #div-four {
-    background-color:lightgreen;
+    background-color:#77FF77;
     font-size:24px;
     font-weight: bold;
 }
